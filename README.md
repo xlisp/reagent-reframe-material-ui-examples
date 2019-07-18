@@ -1,4 +1,4 @@
-# Reagent, Re-frame & Material UI
+# Reagent, Re-frame & Material UI Examples
 
 Fork from : https://github.com/headwinds/reagent-reframe-material-ui
 
