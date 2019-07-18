@@ -1,0 +1,89 @@
+commit 8a6fba82a026cfedca38491becac85751be9a9d4
+Author: brandon flowers <brandonflowers@headwinds.local>
+Date:   Wed Nov 28 19:29:30 2018 -0500
+
+    credit check
+
+commit a9ecb5afc396f060ba8612e192b5ce2bb6d629be
+Author: brandon flowers <brandonflowers@headwinds.local>
+Date:   Wed Nov 28 19:04:35 2018 -0500
+
+    gave credit to Alexander
+
+commit 5567bf5d63e53658968908aa520d16af972d5c74
+Author: brandon flowers <brandonflowers@headwinds.local>
+Date:   Wed Nov 28 18:40:05 2018 -0500
+
+    new page transitions
+
+commit 7d6e6078f2f736cab7cc3c643ca2e74db39c66e4
+Author: headwinds <brandonflowers@gmai.com>
+Date:   Fri Nov 16 17:03:04 2018 -0500
+
+    date pickers hacks to overcome yyyy-dd-dd to dd-mm-yyy
+
+commit c8fe35f75d94bd5504aef627cfe57992208a5b0b
+Author: headwinds <brandonflowers@gmai.com>
+Date:   Thu Nov 15 20:04:31 2018 -0500
+
+    tweaked css
+
+commit 11cee9fe0aa0940b0c6765847d6dfe9c5f09efaa
+Author: headwinds <brandonflowers@gmai.com>
+Date:   Wed Nov 14 21:21:22 2018 -0500
+
+    success docker version working and deployed to zeit
+
+commit a3afc8f9d96963e19510db82c9ed48d64726fd17
+Author: headwinds <brandonflowers@gmai.com>
+Date:   Wed Nov 14 12:47:13 2018 -0500
+
+    working on reselect port
+
+commit 0b7c44d341e14de7623f68b61b41f9893faf8b0c
+Author: headwinds <brandonflowers@gmai.com>
+Date:   Tue Nov 13 16:19:25 2018 -0500
+
+    working autocomplete with react-select
+
+commit 5d7c2592ad65cde1e70e812cf95ddefb6382ca14
+Author: headwinds <brandonflowers@gmai.com>
+Date:   Sun Oct 28 20:46:10 2018 -0400
+
+    updated demo link
+
+commit 296dcc9c61b8c6db5dedbfe05098972e07e1c11a
+Author: headwinds <brandonflowers@gmai.com>
+Date:   Sun Oct 28 20:35:50 2018 -0400
+
+    starwars why not
+
+commit 00397450807e7aaad084ab4fd86b7bbcb5460ca8
+Author: headwinds <brandonflowers@gmai.com>
+Date:   Sun Sep 9 13:53:39 2018 -0400
+
+    justify require flex start
+
+commit 0a7af945209b809c001ef8d5617a6ea97c7a1816
+Author: headwinds <brandonflowers@gmai.com>
+Date:   Wed Aug 29 07:44:27 2018 -0400
+
+    clojurescript
+
+commit ea981f50dd6d6a6abb823b33837a4f9039abe4db
+Author: headwinds <brandonflowers@gmai.com>
+Date:   Mon Aug 27 08:00:07 2018 -0400
+
+    pump dmeo
+
+commit 2b9db38fb1d6be661c18d0275b4279b1691010d2
+Author: headwinds <brandonflowers@gmai.com>
+Date:   Mon Aug 27 07:54:12 2018 -0400
+
+    adding the demo
+
+commit 5f997f5b9b12b6cb34697efcde2963382753c6c1
+Author: headwinds <brandonflowers@gmai.com>
+Date:   Mon Aug 27 07:42:26 2018 -0400
+
+    first commit
